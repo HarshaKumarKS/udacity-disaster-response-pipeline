@@ -64,7 +64,7 @@ git clone https://github.com/HarshaKumarKS/udacity-disaster-response-pipeline.gi
 <a name="authors"></a>
 ## Authors
 
-* [Harsha Kumar](https://github.com/canaveensetia)
+* [Harsha Kumar](https://github.com/HarshaKumarKS)
 
 <a name="screenshots"></a>
 ## Web application screenshots
